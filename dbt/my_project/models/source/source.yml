@@ -1,0 +1,16 @@
+version: 2 
+
+sources:
+  - name: dev
+    database: db
+    tables:
+      - name: raw_earthquake_records
+        columns:
+          - name: id
+          - name: datetime
+          - name: inserted_at
+          - name: latitude
+          - name: longitude
+          - name: depth_km
+          - name: magnitude
+          - name: location
