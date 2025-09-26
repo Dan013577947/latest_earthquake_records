@@ -17,7 +17,7 @@ Here is an example Superset dashboard showing the processed weather metrics:
 - Data transformation and modeling with dbt
 - Automated aggregation of earthquake metrics:
   - Most active locations
-  - Daily earthquake count
+  - Daily earthquakes count
   - Daily average magnitude
 - Containerized using Docker and Docker Compose
 - Visualized with Apache Superset
@@ -31,7 +31,7 @@ Here is an example Superset dashboard showing the processed weather metrics:
 ---
 
 ## Technologies & Skills
-- Python, SQL (PostgreSQL)
+- Python, SQL (PostgreSQL), HTML Parsing(Soap)
 - Apache Airflow (DAGs, Operators, scheduling)
 - Docker & Docker Compose
 - dbt (data modeling & transformations)
