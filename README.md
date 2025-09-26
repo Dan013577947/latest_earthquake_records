@@ -59,8 +59,8 @@ Before running the project, make sure you have:
 - Run the commands:
 
 ```bash
-git clone https://github.com/Dan013577947/weather_data_project.git
-cd weather_data_project
+git clone https://github.com/Dan013577947/latest_earthquake_records.git
+cd latest_earthquake_records
 
 ```
 ### Step 2: Start the Project with Docker
@@ -90,8 +90,3 @@ When finished, shut down all containers:
 ```bash
 docker compose down
 ```
-
-
-
-edit this to latest earthquake records
-my dashboard in supersst is most active locations, daily magnitude average and daily count earthquake
