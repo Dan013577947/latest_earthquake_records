@@ -2,7 +2,7 @@
 Automated data pipeline that extracts, transforms, and loads earthquake data from the Philippines into a PostgreSQL database using Airflow and dbt, with final dashboards displayed in Superset.
 
 ## Project Overview
-The project automates the collection and processing of earthquake data from [PHIVOLCS](https://earthquake.phivolcs.dost.gov.ph/). It fetches raw earthquake data using **SOAP** for HTML parsing, processes it with Python scripts, 
+The project automates the collection and processing of earthquake data from [PHIVOLCS](https://earthquake.phivolcs.dost.gov.ph/). It fetches raw earthquake data using **SOAP** for HTML parsing, removed duplicates and null using pandas, processes it with Python scripts, 
 runs transformations with dbt, and loads it into PostgreSQL for analytics. The entire workflow is scheduled and managed using Apache Airflow, containerized with Docker, and visualized using Superset.
 
 ### Dashboard Preview
