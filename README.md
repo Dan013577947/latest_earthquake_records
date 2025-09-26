@@ -18,7 +18,7 @@ Here is an example Superset dashboard showing the processed weather metrics:
 - Automated aggregation of earthquake metrics:
   - Most active locations
   - Daily earthquake count
-  - Daily magnitude average
+  - Daily average magnitude
 - Containerized using Docker and Docker Compose
 - Visualized with Apache Superset
 
