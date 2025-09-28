@@ -25,13 +25,6 @@ Here is an example Superset dashboard showing the processed weather metrics:
 - Containerized using Docker and Docker Compose
 - Visualized with Apache Superset
 
-### My Dashboard Charts
-![Dashboard](images/superset1.PNG)
-![Dashboard](images/superset2.PNG)
-![Dashboard](images/superset3.PNG)
-
-
----
 
 ## Technologies & Skills
 - Python, SQL (PostgreSQL), HTML Parsing(Soap)
@@ -41,3 +34,12 @@ Here is an example Superset dashboard showing the processed weather metrics:
 - Apache Superset (visualization)
 
 ---
+
+### My Dashboard Charts
+![Dashboard](images/superset1.PNG)
+![Dashboard](images/superset2.PNG)
+![Dashboard](images/superset3.PNG)
+
+
+---
+
