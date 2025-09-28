@@ -41,8 +41,3 @@ Here is an example Superset dashboard showing the processed weather metrics:
 - Apache Superset (visualization)
 
 ---
-
-
-```bash
-docker compose down
-```
